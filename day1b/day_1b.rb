@@ -1,5 +1,6 @@
 data = File.readlines('input.txt')
 
+<!-- test >>
 
 def result(data)
   data.map(&:chomp)
